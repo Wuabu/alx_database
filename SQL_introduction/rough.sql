@@ -1,0 +1,3 @@
+CREATE TABLE (
+    Age VARCHAR (20)
+);
